@@ -1,25 +1,25 @@
 # E-commerce Conversion Funnel Dashboard
 
-## Project Overview
-Interactive Tableau dashboard built to analyze e-commerce conversion performance using GA4 data from BigQuery.
+## Overview
+
+This project analyzes e-commerce conversion performance using Google Analytics 4 (GA4) data stored in BigQuery.
+The goal was to build an interactive dashboard that helps marketing teams monitor key performance indicators, evaluate conversion rates, and identify bottlenecks in the customer journey.
 
 ## Tools
-- SQL (BigQuery)
-- Tableau
 
-## Objectives
-- Analyze customer journey from session to purchase
-- Identify funnel drop-off points
-- Compare conversion rates across traffic sources and devices
+SQL (Google BigQuery)
+Tableau
 
 ## Dashboard Features
-- KPI tracking (Sessions, Purchases, Conversion Rate)
-- Conversion Funnel
-- Conversion Trends Over Time
-- Traffic Channel Analysis
-- Device Category Analysis
-- Landing Page Performance
 
-## Key Insights
-- Significant drop-off occurs between product view and add-to-cart stages
-- Conversion rates vary across acquisition channels and landing pages
+* Sessions, purchases, and conversion metrics
+* Conversion funnel visualization
+* Conversion trends over time
+* Traffic source analysis
+* Device category analysis
+* Landing page performance analysis
+
+## Tableau Dashboard
+
+https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
