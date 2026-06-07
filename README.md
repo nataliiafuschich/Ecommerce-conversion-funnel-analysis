@@ -7,8 +7,8 @@ The goal was to build an interactive dashboard that helps marketing teams monito
 
 ## Tools
 
-SQL (Google BigQuery)
-Tableau
+* SQL (Google BigQuery)
+* Tableau
 
 ## Dashboard Features
 
