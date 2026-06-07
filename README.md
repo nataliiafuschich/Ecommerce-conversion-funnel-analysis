@@ -1,5 +1,7 @@
 # E-commerce Conversion Funnel Dashboard
 
+**Interactive Dashboard:** https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Overview
 
 This project analyzes e-commerce conversion performance using Google Analytics 4 (GA4) data stored in BigQuery.
@@ -18,8 +20,4 @@ The goal was to build an interactive dashboard that helps marketing teams monito
 * Traffic source analysis
 * Device category analysis
 * Landing page performance analysis
-
-## Tableau Dashboard
-
-https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
