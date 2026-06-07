@@ -1,6 +1,6 @@
 # E-commerce Conversion Funnel Dashboard
 
-**Interactive Dashboard:** https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/...](https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 
@@ -21,3 +21,6 @@ The goal was to build an interactive dashboard that helps marketing teams monito
 * Device category analysis
 * Landing page performance analysis
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
