@@ -1,6 +1,6 @@
 # E-commerce Conversion Funnel Dashboard
 
-**Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/...](https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Finalproject_17761944886560/E-commerceConversionOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 
